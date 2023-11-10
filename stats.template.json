@@ -1,0 +1,53 @@
+{
+  "labels": [],
+  "datasets": [
+    {
+      "label": "dns1.cl.newpangea.de",
+      "data": [],
+      "borderColor": "#aabbcc",
+      "fill": true,
+      "cubicInterpolationmode": "monotone",
+      "tension": 0.4
+    },
+    {
+      "label": "dns1.fi.newpangea.de",
+      "data": [],
+      "borderColor": "#aaaaaa",
+      "fill": true,
+      "cubicInterpolationmode": "monotone",
+      "tension": 0.4
+    },
+    {
+      "label": "dns1.in.newpangea.de",
+      "data": [],
+      "borderColor": "#aaff11",
+      "fill": true,
+      "cubicInterpolationmode": "monotone",
+      "tension": 0.4
+    },
+    {
+      "label": "dns1.pl.newpangea.de",
+      "data": [],
+      "borderColor": "#bbccbb",
+      "fill": true,
+      "cubicInterpolationmode": "monotone",
+      "tension": 0.4
+    },
+    {
+      "label": "dns1.ru.newpangea.de",
+      "data": [],
+      "borderColor": "#cccccc",
+      "fill": true,
+      "cubicInterpolationmode": "monotone",
+      "tension": 0.4
+    },
+    {
+      "label": "dns1.us.newpangea.de",
+      "data": [],
+      "borderColor": "#eeeeee",
+      "fill": true,
+      "cubicInterpolationmode": "monotone",
+      "tension": 0.4
+    }
+  ]
+}
